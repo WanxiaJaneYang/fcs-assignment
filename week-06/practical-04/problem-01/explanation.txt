@@ -1,0 +1,3 @@
+//ArrayList<Integer> to represent pole because it would be easier to manipulate discs
+//use integer to store disc No and disc size
+
