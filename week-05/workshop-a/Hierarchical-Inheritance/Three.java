@@ -1,0 +1,4 @@
+class Three extends One{ 
+	/*............*/
+} 
+
