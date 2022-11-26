@@ -1,0 +1,7 @@
+Dear manager, 
+
+The problem (1), was due to the method in the Insertion class was not implemented, I fixed by add the sorting method;  
+The problem (2), was due to the binary search only works when the data is sorted, I fixed by adding the sorting function before beginning to search; 
+The problem (3), I fixed implementing the Selection class;
+
+Kind regards, Wanxia Yang a1866893
