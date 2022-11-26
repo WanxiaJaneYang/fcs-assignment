@@ -1,0 +1,2 @@
+ls.current.txt
+sub_001_folder_001
